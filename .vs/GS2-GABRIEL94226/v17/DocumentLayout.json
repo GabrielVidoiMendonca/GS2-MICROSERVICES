@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GS2-GABRIEL94226\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|d:\\gs2-gabriel94226\\gs2-gabriel94226\\services\\mongoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|solutionrelative:gs2-gabriel94226\\services\\mongoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|d:\\gs2-gabriel94226\\gs2-gabriel94226\\services\\redisservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|solutionrelative:gs2-gabriel94226\\services\\redisservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|d:\\gs2-gabriel94226\\gs2-gabriel94226\\tests\\mongotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|solutionrelative:gs2-gabriel94226\\tests\\mongotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|d:\\gs2-gabriel94226\\gs2-gabriel94226\\tests\\consumotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|solutionrelative:gs2-gabriel94226\\tests\\consumotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|d:\\gs2-gabriel94226\\gs2-gabriel94226\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|solutionrelative:gs2-gabriel94226\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|d:\\gs2-gabriel94226\\gs2-gabriel94226\\controllers\\consumocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|solutionrelative:gs2-gabriel94226\\controllers\\consumocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|d:\\gs2-gabriel94226\\gs2-gabriel94226\\tests\\redistests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|solutionrelative:gs2-gabriel94226\\tests\\redistests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|d:\\gs2-gabriel94226\\gs2-gabriel94226\\models\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|solutionrelative:gs2-gabriel94226\\models\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|d:\\gs2-gabriel94226\\gs2-gabriel94226\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|solutionrelative:gs2-gabriel94226\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|d:\\gs2-gabriel94226\\gs2-gabriel94226\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AE995E-4273-4C87-8F30-781D2CA90A7B}|GS2-GABRIEL94226\\GS2-GABRIEL94226.csproj|solutionrelative:gs2-gabriel94226\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoServices.cs",
+              "DocumentMoniker": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Services\\MongoServices.cs",
+              "RelativeDocumentMoniker": "GS2-GABRIEL94226\\Services\\MongoServices.cs",
+              "ToolTip": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Services\\MongoServices.cs",
+              "RelativeToolTip": "GS2-GABRIEL94226\\Services\\MongoServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:11:15.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisServices.cs",
+              "DocumentMoniker": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Services\\RedisServices.cs",
+              "RelativeDocumentMoniker": "GS2-GABRIEL94226\\Services\\RedisServices.cs",
+              "ToolTip": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Services\\RedisServices.cs",
+              "RelativeToolTip": "GS2-GABRIEL94226\\Services\\RedisServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:31:54.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsumoController.cs",
+              "DocumentMoniker": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Controllers\\ConsumoController.cs",
+              "RelativeDocumentMoniker": "GS2-GABRIEL94226\\Controllers\\ConsumoController.cs",
+              "ToolTip": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Controllers\\ConsumoController.cs",
+              "RelativeToolTip": "GS2-GABRIEL94226\\Controllers\\ConsumoController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwCQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:43:06.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Program.cs",
+              "RelativeDocumentMoniker": "GS2-GABRIEL94226\\Program.cs",
+              "ToolTip": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Program.cs",
+              "RelativeToolTip": "GS2-GABRIEL94226\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:36:06.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsumoTests.cs",
+              "DocumentMoniker": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Tests\\ConsumoTests.cs",
+              "RelativeDocumentMoniker": "GS2-GABRIEL94226\\Tests\\ConsumoTests.cs",
+              "ToolTip": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Tests\\ConsumoTests.cs",
+              "RelativeToolTip": "GS2-GABRIEL94226\\Tests\\ConsumoTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:04:34.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoTests.cs",
+              "DocumentMoniker": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Tests\\MongoTests.cs",
+              "RelativeDocumentMoniker": "GS2-GABRIEL94226\\Tests\\MongoTests.cs",
+              "ToolTip": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Tests\\MongoTests.cs",
+              "RelativeToolTip": "GS2-GABRIEL94226\\Tests\\MongoTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:26:14.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedisTests.cs",
+              "DocumentMoniker": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Tests\\RedisTests.cs",
+              "RelativeDocumentMoniker": "GS2-GABRIEL94226\\Tests\\RedisTests.cs",
+              "ToolTip": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Tests\\RedisTests.cs",
+              "RelativeToolTip": "GS2-GABRIEL94226\\Tests\\RedisTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:04:15.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GS2-GABRIEL94226\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GS2-GABRIEL94226\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:01:33.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Consumo.cs",
+              "DocumentMoniker": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Models\\Consumo.cs",
+              "RelativeDocumentMoniker": "GS2-GABRIEL94226\\Models\\Consumo.cs",
+              "ToolTip": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Models\\Consumo.cs",
+              "RelativeToolTip": "GS2-GABRIEL94226\\Models\\Consumo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:50:32.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "GS2-GABRIEL94226\\Controllers\\HealthController.cs",
+              "ToolTip": "D:\\GS2-GABRIEL94226\\GS2-GABRIEL94226\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "GS2-GABRIEL94226\\Controllers\\HealthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:42:34.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

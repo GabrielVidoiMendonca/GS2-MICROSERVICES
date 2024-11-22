@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GS2-GABRIEL94226.props" />
+</Project>

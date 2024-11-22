@@ -1,0 +1,6 @@
+@GS2_GABRIEL94226_HostAddress = http://localhost:5193
+
+GET {{GS2_GABRIEL94226_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
